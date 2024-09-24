@@ -1,0 +1,20 @@
+package com.hostmdy.ecommerce.domain;
+
+public enum Country {
+	AFGHANISTAN,
+	ALBANIA,
+	ALGERIA,
+	ANDORRA,
+	ANGOLA,
+	ANTIGUA_BARBUDA,
+	ARGENTINA,
+	ARMENIA,
+	AUSTRALIA,
+	AUSTRIA,
+	AZERBAIJAN,
+	USA,
+	MYANMAR,
+	KOREA,
+	JAPAN,
+	THAILAND
+}
